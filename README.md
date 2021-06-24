@@ -8,5 +8,5 @@
 ### Basic Scissor Paper Rock Game With Python 🐍😅
 
 
-# How to run
+#### How to run on PC
 ➖ **Developed By : Hansana Dasanayak** ➖
