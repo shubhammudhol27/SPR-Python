@@ -6,7 +6,7 @@
 [![Size](https://img.shields.io/github/repo-size/HansanaDasanayaka/SPR-Python?style=flat-square&color=green)](https://github.com/HansanaDasanayaka/SPR-Python)
 
 ### How to run on PC
-- Open Powershell On Your Computer
+- Open Powershell On Your Computer (Also you can use cmd)
 - type `git clone https://github.com/HansanaDasanayaka/SPR-Python` or download it manually.
 - locate the file directory using powershell commands.
 - Now Type `python scissor-paper-rock.py`
