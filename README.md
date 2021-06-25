@@ -5,7 +5,7 @@
 [![Python Version](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 [![Size](https://img.shields.io/github/repo-size/HansanaDasanayaka/SPR-Python?style=flat-square&color=green)](https://github.com/HansanaDasanayaka/SPR-Python)
 
-### How to run on PC
+### How to run..
 
 - `git clone https://github.com/HansanaDasanayaka/SPR-Python`
 - `python scissor-paper-rock.py`
