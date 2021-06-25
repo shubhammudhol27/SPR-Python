@@ -7,9 +7,9 @@
 
 ### How to run on PC
 
--`git clone https://github.com/HansanaDasanayaka/SPR-Python`
--`python scissor-paper-rock.py`
-- Done! Enjoy.
+- `git clone https://github.com/HansanaDasanayaka/SPR-Python`
+-` python scissor-paper-rock.py`
+-  Done! Enjoy.
 
 
 ➖ **Developed By : Hansana Dasanayak** ➖
