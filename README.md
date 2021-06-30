@@ -3,6 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/HansanaDasanayaka/SPR-Python?style=flat-square&color=green)](https://github.com/HansanaDasanayaka/SPR-Python)
 [![Forks](https://img.shields.io/github/forks/HansanaDasanayaka/SPR-Python?style=flat-square&color=green)](https://github.com/HansanaDasanayaka/SPR-Python/fork)
 [![Python Version](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
+[![Github all releases](https://img.shields.io/github/downloads/HansanaDasanayaka/SPR-Python.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 [![Size](https://img.shields.io/github/repo-size/HansanaDasanayaka/SPR-Python?style=flat-square&color=green)](https://github.com/HansanaDasanayaka/SPR-Python)
 
 ### How to run..
@@ -11,5 +12,5 @@
 - `python scissor-paper-rock.py`
 -  Done! Enjoy.
 
-
-➖ **Developed By : Hansana Dasanayak** ➖
+[![made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+➖ **Developed By : Hansana Dasanayaka** ➖
