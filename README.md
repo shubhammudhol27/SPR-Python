@@ -14,5 +14,5 @@
 - `python scissor-paper-rock.py`
 -  Done! Enjoy.
 
-#### New Version : 2.0V Coming Soon!
+#### ✅ New Version : 2.0V Coming Soon!
 #### ➖ **Developed By : Hansana Dasanayaka** ➖
