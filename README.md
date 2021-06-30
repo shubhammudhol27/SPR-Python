@@ -6,11 +6,12 @@
 [![Github all releases](https://img.shields.io/github/downloads/HansanaDasanayaka/SPR-Python.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 [![Size](https://img.shields.io/github/repo-size/HansanaDasanayaka/SPR-Python?style=flat-square&color=green)](https://github.com/HansanaDasanayaka/SPR-Python)
 
+[![made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ### How to run..
 
 - `git clone https://github.com/HansanaDasanayaka/SPR-Python`
 - `python scissor-paper-rock.py`
 -  Done! Enjoy.
 
-[![made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 ➖ **Developed By : Hansana Dasanayaka** ➖
