@@ -1,5 +1,5 @@
 # SPR-Python
-## Basic Scissor Paper Rock Game With Python 🐍😅
+## Basic Scissor Paper Rock Game With Python ~
 [![Stars](https://img.shields.io/github/stars/HansanaDasanayaka/SPR-Python?style=flat&color=green)](https://github.com/HansanaDasanayaka/SPR-Python)
 [![Forks](https://img.shields.io/github/forks/HansanaDasanayaka/SPR-Python?style=flat&color=green)](https://github.com/HansanaDasanayaka/SPR-Python/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/HansanaDasanayaka/SPR-Python?style=flat&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
